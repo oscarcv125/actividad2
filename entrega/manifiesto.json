@@ -1,0 +1,42 @@
+{
+  "fuente": "corpus_actividad_02_v2.csv",
+  "sha256_fuente": "d6e2264b0f726856fc0a72a99347af8899fa95e1851bc9730282db7323710acf",
+  "filas": 120,
+  "versiones": {
+    "numpy": "2.4.4",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.8.0",
+    "skops": "0.16.0",
+    "matplotlib": "3.11.1",
+    "python": "3.14.4"
+  },
+  "semilla": 42,
+  "configuracion": {
+    "tfidf": {
+      "lowercase": true,
+      "ngram_range": [
+        1,
+        2
+      ],
+      "min_df": 1
+    },
+    "regresion_logistica": {
+      "C": 1.0,
+      "max_iter": 1000,
+      "random_state": 42
+    },
+    "naive_bayes": {
+      "alpha": 1.0
+    }
+  },
+  "orden_categorias": [
+    "acceso",
+    "pagos",
+    "conectividad",
+    "software"
+  ],
+  "metrica_principal": "F1 macro en validation",
+  "desempate": "si empatan en F1 macro, gana la de mayor accuracy en validation; si siguen empatadas, Naive Bayes (la mas simple)",
+  "modelo_elegido": "tfidf_naive_bayes",
+  "texto_de_entrada": "solo text_processed"
+}

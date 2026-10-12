@@ -1,0 +1,121 @@
+id,family,split,label,text_original,text_processed
+A2-001,H001,train,acceso,La contraseña de mi cuenta ya no funciona para iniciar sesión.,La contraseña de mi cuenta ya no funciona para iniciar sesión.
+A2-002,H001,train,acceso,Buen día. La contraseña de mi cuenta ya no funciona para iniciar sesión. ¿Pueden ayudarme?,Buen día. La contraseña de mi cuenta ya no funciona para iniciar sesión. ¿Pueden ayudarme?
+A2-003,H001,train,acceso,Solicito revisión: La contraseña de mi cuenta ya no funciona para iniciar sesión. El problema continúa.,Solicito revisión: La contraseña de mi cuenta ya no funciona para iniciar sesión. El problema continúa.
+A2-004,H002,train,acceso,Necesito recuperar el acceso porque olvidé mi clave.,Necesito recuperar el acceso porque olvidé mi clave.
+A2-005,H002,train,acceso,Buen día. Necesito recuperar el acceso porque olvidé mi clave. ¿Pueden ayudarme?,Buen día. Necesito recuperar el acceso porque olvidé mi clave. ¿Pueden ayudarme?
+A2-006,H002,train,acceso,Solicito revisión: Necesito recuperar el acceso porque olvidé mi clave. El problema continúa.,Solicito revisión: Necesito recuperar el acceso porque olvidé mi clave. El problema continúa.
+A2-007,H003,train,acceso,El código de autenticación no llega a mi teléfono.,El código de autenticación no llega a mi teléfono.
+A2-008,H003,train,acceso,Buen día. El código de autenticación no llega a mi teléfono. ¿Pueden ayudarme?,Buen día. El código de autenticación no llega a mi teléfono. ¿Pueden ayudarme?
+A2-009,H003,train,acceso,Solicito revisión: El código de autenticación no llega a mi teléfono. El problema continúa.,Solicito revisión: El código de autenticación no llega a mi teléfono. El problema continúa.
+A2-010,H004,train,acceso,Mi usuario quedó bloqueado después de varios intentos.,Mi usuario quedó bloqueado después de varios intentos.
+A2-011,H004,train,acceso,Buen día. Mi usuario quedó bloqueado después de varios intentos. ¿Pueden ayudarme?,Buen día. Mi usuario quedó bloqueado después de varios intentos. ¿Pueden ayudarme?
+A2-012,H004,train,acceso,Solicito revisión: Mi usuario quedó bloqueado después de varios intentos. El problema continúa.,Solicito revisión: Mi usuario quedó bloqueado después de varios intentos. El problema continúa.
+A2-013,H005,train,acceso,La cuenta indica sesión caducada y no permite entrar.,La cuenta indica sesión caducada y no permite entrar.
+A2-014,H005,train,acceso,Buen día. La cuenta indica sesión caducada y no permite entrar. ¿Pueden ayudarme?,Buen día. La cuenta indica sesión caducada y no permite entrar. ¿Pueden ayudarme?
+A2-015,H005,train,acceso,Solicito revisión: La cuenta indica sesión caducada y no permite entrar. El problema continúa.,Solicito revisión: La cuenta indica sesión caducada y no permite entrar. El problema continúa.
+A2-016,H006,train,acceso,Quiero cambiar la contraseña para proteger mi cuenta.,Quiero cambiar la contraseña para proteger mi cuenta.
+A2-017,H006,train,acceso,Buen día. Quiero cambiar la contraseña para proteger mi cuenta. ¿Pueden ayudarme?,Buen día. Quiero cambiar la contraseña para proteger mi cuenta. ¿Pueden ayudarme?
+A2-018,H006,train,acceso,Solicito revisión: Quiero cambiar la contraseña para proteger mi cuenta. El problema continúa.,Solicito revisión: Quiero cambiar la contraseña para proteger mi cuenta. El problema continúa.
+A2-019,H007,validation,acceso,El portal rechaza mi clave aunque ayer pude entrar.,El portal rechaza mi clave aunque ayer pude entrar.
+A2-020,H007,validation,acceso,Buen día. El portal rechaza mi clave aunque ayer pude entrar. ¿Pueden ayudarme?,Buen día. El portal rechaza mi clave aunque ayer pude entrar. ¿Pueden ayudarme?
+A2-021,H007,validation,acceso,Solicito revisión: El portal rechaza mi clave aunque ayer pude entrar. El problema continúa.,Solicito revisión: El portal rechaza mi clave aunque ayer pude entrar. El problema continúa.
+A2-022,H008,validation,acceso,Perdí el segundo factor y necesito recuperar mi usuario.,Perdí el segundo factor y necesito recuperar mi usuario.
+A2-023,H008,validation,acceso,Buen día. Perdí el segundo factor y necesito recuperar mi usuario. ¿Pueden ayudarme?,Buen día. Perdí el segundo factor y necesito recuperar mi usuario. ¿Pueden ayudarme?
+A2-024,H008,validation,acceso,Solicito revisión: Perdí el segundo factor y necesito recuperar mi usuario. El problema continúa.,Solicito revisión: Perdí el segundo factor y necesito recuperar mi usuario. El problema continúa.
+A2-025,H009,test,acceso,Mi identidad no se valida al intentar acceder al portal.,Mi identidad no se valida al intentar acceder al portal.
+A2-026,H009,test,acceso,Buen día. Mi identidad no se valida al intentar acceder al portal. ¿Pueden ayudarme?,Buen día. Mi identidad no se valida al intentar acceder al portal. ¿Pueden ayudarme?
+A2-027,H009,test,acceso,Solicito revisión: Mi identidad no se valida al intentar acceder al portal. El problema continúa.,Solicito revisión: Mi identidad no se valida al intentar acceder al portal. El problema continúa.
+A2-028,H010,test,acceso,Ya resolví el pago; ahora necesito desbloquear mi cuenta.,Ya resolví el pago; ahora necesito desbloquear mi cuenta.
+A2-029,H010,test,acceso,Buen día. Ya resolví el pago; ahora necesito desbloquear mi cuenta. ¿Pueden ayudarme?,Buen día. Ya resolví el pago; ahora necesito desbloquear mi cuenta. ¿Pueden ayudarme?
+A2-030,H010,test,acceso,Solicito revisión: Ya resolví el pago; ahora necesito desbloquear mi cuenta. El problema continúa.,Solicito revisión: Ya resolví el pago; ahora necesito desbloquear mi cuenta. El problema continúa.
+A2-031,H011,train,pagos,El pago de mi tarjeta fue rechazado al confirmar el cargo.,El pago de mi tarjeta fue rechazado al confirmar el cargo.
+A2-032,H011,train,pagos,Buen día. El pago de mi tarjeta fue rechazado al confirmar el cargo. ¿Pueden ayudarme?,Buen día. El pago de mi tarjeta fue rechazado al confirmar el cargo. ¿Pueden ayudarme?
+A2-033,H011,train,pagos,Solicito revisión: El pago de mi tarjeta fue rechazado al confirmar el cargo. El problema continúa.,Solicito revisión: El pago de mi tarjeta fue rechazado al confirmar el cargo. El problema continúa.
+A2-034,H012,train,pagos,Necesito una factura del pago que realicé ayer.,Necesito una factura del pago que realicé ayer.
+A2-035,H012,train,pagos,Buen día. Necesito una factura del pago que realicé ayer. ¿Pueden ayudarme?,Buen día. Necesito una factura del pago que realicé ayer. ¿Pueden ayudarme?
+A2-036,H012,train,pagos,Solicito revisión: Necesito una factura del pago que realicé ayer. El problema continúa.,Solicito revisión: Necesito una factura del pago que realicé ayer. El problema continúa.
+A2-037,H013,train,pagos,Aparecen dos cobros de la misma compra en mi tarjeta.,Aparecen dos cobros de la misma compra en mi tarjeta.
+A2-038,H013,train,pagos,Buen día. Aparecen dos cobros de la misma compra en mi tarjeta. ¿Pueden ayudarme?,Buen día. Aparecen dos cobros de la misma compra en mi tarjeta. ¿Pueden ayudarme?
+A2-039,H013,train,pagos,Solicito revisión: Aparecen dos cobros de la misma compra en mi tarjeta. El problema continúa.,Solicito revisión: Aparecen dos cobros de la misma compra en mi tarjeta. El problema continúa.
+A2-040,H014,train,pagos,Solicité un reembolso y el dinero no aparece.,Solicité un reembolso y el dinero no aparece.
+A2-041,H014,train,pagos,Buen día. Solicité un reembolso y el dinero no aparece. ¿Pueden ayudarme?,Buen día. Solicité un reembolso y el dinero no aparece. ¿Pueden ayudarme?
+A2-042,H014,train,pagos,Solicito revisión: Solicité un reembolso y el dinero no aparece. El problema continúa.,Solicito revisión: Solicité un reembolso y el dinero no aparece. El problema continúa.
+A2-043,H015,train,pagos,El recibo tiene un importe distinto del cargo realizado.,El recibo tiene un importe distinto del cargo realizado.
+A2-044,H015,train,pagos,Buen día. El recibo tiene un importe distinto del cargo realizado. ¿Pueden ayudarme?,Buen día. El recibo tiene un importe distinto del cargo realizado. ¿Pueden ayudarme?
+A2-045,H015,train,pagos,Solicito revisión: El recibo tiene un importe distinto del cargo realizado. El problema continúa.,Solicito revisión: El recibo tiene un importe distinto del cargo realizado. El problema continúa.
+A2-046,H016,train,pagos,Pagué la cuota pero el sistema mantiene el saldo pendiente.,Pagué la cuota pero el sistema mantiene el saldo pendiente.
+A2-047,H016,train,pagos,Buen día. Pagué la cuota pero el sistema mantiene el saldo pendiente. ¿Pueden ayudarme?,Buen día. Pagué la cuota pero el sistema mantiene el saldo pendiente. ¿Pueden ayudarme?
+A2-048,H016,train,pagos,Solicito revisión: Pagué la cuota pero el sistema mantiene el saldo pendiente. El problema continúa.,Solicito revisión: Pagué la cuota pero el sistema mantiene el saldo pendiente. El problema continúa.
+A2-049,H017,validation,pagos,La transferencia está confirmada pero no veo el recibo.,La transferencia está confirmada pero no veo el recibo.
+A2-050,H017,validation,pagos,Buen día. La transferencia está confirmada pero no veo el recibo. ¿Pueden ayudarme?,Buen día. La transferencia está confirmada pero no veo el recibo. ¿Pueden ayudarme?
+A2-051,H017,validation,pagos,Solicito revisión: La transferencia está confirmada pero no veo el recibo. El problema continúa.,Solicito revisión: La transferencia está confirmada pero no veo el recibo. El problema continúa.
+A2-052,H018,validation,pagos,Necesito corregir los datos fiscales de una factura.,Necesito corregir los datos fiscales de una factura.
+A2-053,H018,validation,pagos,Buen día. Necesito corregir los datos fiscales de una factura. ¿Pueden ayudarme?,Buen día. Necesito corregir los datos fiscales de una factura. ¿Pueden ayudarme?
+A2-054,H018,validation,pagos,Solicito revisión: Necesito corregir los datos fiscales de una factura. El problema continúa.,Solicito revisión: Necesito corregir los datos fiscales de una factura. El problema continúa.
+A2-055,H019,test,pagos,Me descontaron dinero y la orden sigue sin liquidar.,Me descontaron dinero y la orden sigue sin liquidar.
+A2-056,H019,test,pagos,Buen día. Me descontaron dinero y la orden sigue sin liquidar. ¿Pueden ayudarme?,Buen día. Me descontaron dinero y la orden sigue sin liquidar. ¿Pueden ayudarme?
+A2-057,H019,test,pagos,Solicito revisión: Me descontaron dinero y la orden sigue sin liquidar. El problema continúa.,Solicito revisión: Me descontaron dinero y la orden sigue sin liquidar. El problema continúa.
+A2-058,H020,test,pagos,Puedo entrar a mi cuenta; el problema es un cobro que no reconozco.,Puedo entrar a mi cuenta; el problema es un cobro que no reconozco.
+A2-059,H020,test,pagos,Buen día. Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. ¿Pueden ayudarme?,Buen día. Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. ¿Pueden ayudarme?
+A2-060,H020,test,pagos,Solicito revisión: Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. El problema continúa.,Solicito revisión: Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. El problema continúa.
+A2-061,H021,train,conectividad,La red wifi pierde la conexión cada pocos minutos.,La red wifi pierde la conexión cada pocos minutos.
+A2-062,H021,train,conectividad,Buen día. La red wifi pierde la conexión cada pocos minutos. ¿Pueden ayudarme?,Buen día. La red wifi pierde la conexión cada pocos minutos. ¿Pueden ayudarme?
+A2-063,H021,train,conectividad,Solicito revisión: La red wifi pierde la conexión cada pocos minutos. El problema continúa.,Solicito revisión: La red wifi pierde la conexión cada pocos minutos. El problema continúa.
+A2-064,H022,train,conectividad,Mi equipo no consigue conectarse a internet.,Mi equipo no consigue conectarse a internet.
+A2-065,H022,train,conectividad,Buen día. Mi equipo no consigue conectarse a internet. ¿Pueden ayudarme?,Buen día. Mi equipo no consigue conectarse a internet. ¿Pueden ayudarme?
+A2-066,H022,train,conectividad,Solicito revisión: Mi equipo no consigue conectarse a internet. El problema continúa.,Solicito revisión: Mi equipo no consigue conectarse a internet. El problema continúa.
+A2-067,H023,train,conectividad,El cable de red está conectado pero no hay acceso a internet.,El cable de red está conectado pero no hay acceso a internet.
+A2-068,H023,train,conectividad,Buen día. El cable de red está conectado pero no hay acceso a internet. ¿Pueden ayudarme?,Buen día. El cable de red está conectado pero no hay acceso a internet. ¿Pueden ayudarme?
+A2-069,H023,train,conectividad,Solicito revisión: El cable de red está conectado pero no hay acceso a internet. El problema continúa.,Solicito revisión: El cable de red está conectado pero no hay acceso a internet. El problema continúa.
+A2-070,H024,train,conectividad,La conexión es muy lenta al abrir cualquier sitio.,La conexión es muy lenta al abrir cualquier sitio.
+A2-071,H024,train,conectividad,Buen día. La conexión es muy lenta al abrir cualquier sitio. ¿Pueden ayudarme?,Buen día. La conexión es muy lenta al abrir cualquier sitio. ¿Pueden ayudarme?
+A2-072,H024,train,conectividad,Solicito revisión: La conexión es muy lenta al abrir cualquier sitio. El problema continúa.,Solicito revisión: La conexión es muy lenta al abrir cualquier sitio. El problema continúa.
+A2-073,H025,train,conectividad,La red inalámbrica no aparece entre las conexiones disponibles.,La red inalámbrica no aparece entre las conexiones disponibles.
+A2-074,H025,train,conectividad,Buen día. La red inalámbrica no aparece entre las conexiones disponibles. ¿Pueden ayudarme?,Buen día. La red inalámbrica no aparece entre las conexiones disponibles. ¿Pueden ayudarme?
+A2-075,H025,train,conectividad,Solicito revisión: La red inalámbrica no aparece entre las conexiones disponibles. El problema continúa.,Solicito revisión: La red inalámbrica no aparece entre las conexiones disponibles. El problema continúa.
+A2-076,H026,train,conectividad,Se interrumpe internet cuando inicio una videollamada.,Se interrumpe internet cuando inicio una videollamada.
+A2-077,H026,train,conectividad,Buen día. Se interrumpe internet cuando inicio una videollamada. ¿Pueden ayudarme?,Buen día. Se interrumpe internet cuando inicio una videollamada. ¿Pueden ayudarme?
+A2-078,H026,train,conectividad,Solicito revisión: Se interrumpe internet cuando inicio una videollamada. El problema continúa.,Solicito revisión: Se interrumpe internet cuando inicio una videollamada. El problema continúa.
+A2-079,H027,validation,conectividad,El adaptador de red no obtiene una dirección válida.,El adaptador de red no obtiene una dirección válida.
+A2-080,H027,validation,conectividad,Buen día. El adaptador de red no obtiene una dirección válida. ¿Pueden ayudarme?,Buen día. El adaptador de red no obtiene una dirección válida. ¿Pueden ayudarme?
+A2-081,H027,validation,conectividad,Solicito revisión: El adaptador de red no obtiene una dirección válida. El problema continúa.,Solicito revisión: El adaptador de red no obtiene una dirección válida. El problema continúa.
+A2-082,H028,validation,conectividad,Tengo señal wifi pero no puedo navegar por ninguna página.,Tengo señal wifi pero no puedo navegar por ninguna página.
+A2-083,H028,validation,conectividad,Buen día. Tengo señal wifi pero no puedo navegar por ninguna página. ¿Pueden ayudarme?,Buen día. Tengo señal wifi pero no puedo navegar por ninguna página. ¿Pueden ayudarme?
+A2-084,H028,validation,conectividad,Solicito revisión: Tengo señal wifi pero no puedo navegar por ninguna página. El problema continúa.,Solicito revisión: Tengo señal wifi pero no puedo navegar por ninguna página. El problema continúa.
+A2-085,H029,test,conectividad,La conexión se corta al cambiar de sala.,La conexión se corta al cambiar de sala.
+A2-086,H029,test,conectividad,Buen día. La conexión se corta al cambiar de sala. ¿Pueden ayudarme?,Buen día. La conexión se corta al cambiar de sala. ¿Pueden ayudarme?
+A2-087,H029,test,conectividad,Solicito revisión: La conexión se corta al cambiar de sala. El problema continúa.,Solicito revisión: La conexión se corta al cambiar de sala. El problema continúa.
+A2-088,H030,test,conectividad,La contraseña funciona; lo que falla es la red del edificio.,La contraseña funciona; lo que falla es la red del edificio.
+A2-089,H030,test,conectividad,Buen día. La contraseña funciona; lo que falla es la red del edificio. ¿Pueden ayudarme?,Buen día. La contraseña funciona; lo que falla es la red del edificio. ¿Pueden ayudarme?
+A2-090,H030,test,conectividad,Solicito revisión: La contraseña funciona; lo que falla es la red del edificio. El problema continúa.,Solicito revisión: La contraseña funciona; lo que falla es la red del edificio. El problema continúa.
+A2-091,H031,train,software,La aplicación se cierra al abrir un documento.,La aplicación se cierra al abrir un documento.
+A2-092,H031,train,software,Buen día. La aplicación se cierra al abrir un documento. ¿Pueden ayudarme?,Buen día. La aplicación se cierra al abrir un documento. ¿Pueden ayudarme?
+A2-093,H031,train,software,Solicito revisión: La aplicación se cierra al abrir un documento. El problema continúa.,Solicito revisión: La aplicación se cierra al abrir un documento. El problema continúa.
+A2-094,H032,train,software,No puedo instalar la actualización del programa.,No puedo instalar la actualización del programa.
+A2-095,H032,train,software,Buen día. No puedo instalar la actualización del programa. ¿Pueden ayudarme?,Buen día. No puedo instalar la actualización del programa. ¿Pueden ayudarme?
+A2-096,H032,train,software,Solicito revisión: No puedo instalar la actualización del programa. El problema continúa.,Solicito revisión: No puedo instalar la actualización del programa. El problema continúa.
+A2-097,H033,train,software,El editor muestra un error al guardar el archivo.,El editor muestra un error al guardar el archivo.
+A2-098,H033,train,software,Buen día. El editor muestra un error al guardar el archivo. ¿Pueden ayudarme?,Buen día. El editor muestra un error al guardar el archivo. ¿Pueden ayudarme?
+A2-099,H033,train,software,Solicito revisión: El editor muestra un error al guardar el archivo. El problema continúa.,Solicito revisión: El editor muestra un error al guardar el archivo. El problema continúa.
+A2-100,H034,train,software,La licencia del software aparece como vencida.,La licencia del software aparece como vencida.
+A2-101,H034,train,software,Buen día. La licencia del software aparece como vencida. ¿Pueden ayudarme?,Buen día. La licencia del software aparece como vencida. ¿Pueden ayudarme?
+A2-102,H034,train,software,Solicito revisión: La licencia del software aparece como vencida. El problema continúa.,Solicito revisión: La licencia del software aparece como vencida. El problema continúa.
+A2-103,H035,train,software,El programa se congela cuando intento exportar el informe.,El programa se congela cuando intento exportar el informe.
+A2-104,H035,train,software,Buen día. El programa se congela cuando intento exportar el informe. ¿Pueden ayudarme?,Buen día. El programa se congela cuando intento exportar el informe. ¿Pueden ayudarme?
+A2-105,H035,train,software,Solicito revisión: El programa se congela cuando intento exportar el informe. El problema continúa.,Solicito revisión: El programa se congela cuando intento exportar el informe. El problema continúa.
+A2-106,H036,train,software,Necesito reinstalar la aplicación porque faltan sus componentes.,Necesito reinstalar la aplicación porque faltan sus componentes.
+A2-107,H036,train,software,Buen día. Necesito reinstalar la aplicación porque faltan sus componentes. ¿Pueden ayudarme?,Buen día. Necesito reinstalar la aplicación porque faltan sus componentes. ¿Pueden ayudarme?
+A2-108,H036,train,software,Solicito revisión: Necesito reinstalar la aplicación porque faltan sus componentes. El problema continúa.,Solicito revisión: Necesito reinstalar la aplicación porque faltan sus componentes. El problema continúa.
+A2-109,H037,validation,software,La nueva versión del editor no abre mis archivos.,La nueva versión del editor no abre mis archivos.
+A2-110,H037,validation,software,Buen día. La nueva versión del editor no abre mis archivos. ¿Pueden ayudarme?,Buen día. La nueva versión del editor no abre mis archivos. ¿Pueden ayudarme?
+A2-111,H037,validation,software,Solicito revisión: La nueva versión del editor no abre mis archivos. El problema continúa.,Solicito revisión: La nueva versión del editor no abre mis archivos. El problema continúa.
+A2-112,H038,validation,software,El instalador falla después de descargar los componentes.,El instalador falla después de descargar los componentes.
+A2-113,H038,validation,software,Buen día. El instalador falla después de descargar los componentes. ¿Pueden ayudarme?,Buen día. El instalador falla después de descargar los componentes. ¿Pueden ayudarme?
+A2-114,H038,validation,software,Solicito revisión: El instalador falla después de descargar los componentes. El problema continúa.,Solicito revisión: El instalador falla después de descargar los componentes. El problema continúa.
+A2-115,H039,test,software,Las fórmulas de la hoja de cálculo dejaron de actualizarse.,Las fórmulas de la hoja de cálculo dejaron de actualizarse.
+A2-116,H039,test,software,Buen día. Las fórmulas de la hoja de cálculo dejaron de actualizarse. ¿Pueden ayudarme?,Buen día. Las fórmulas de la hoja de cálculo dejaron de actualizarse. ¿Pueden ayudarme?
+A2-117,H039,test,software,Solicito revisión: Las fórmulas de la hoja de cálculo dejaron de actualizarse. El problema continúa.,Solicito revisión: Las fórmulas de la hoja de cálculo dejaron de actualizarse. El problema continúa.
+A2-118,H040,test,software,Internet funciona; el programa se cierra al iniciar.,Internet funciona; el programa se cierra al iniciar.
+A2-119,H040,test,software,Buen día. Internet funciona; el programa se cierra al iniciar. ¿Pueden ayudarme?,Buen día. Internet funciona; el programa se cierra al iniciar. ¿Pueden ayudarme?
+A2-120,H040,test,software,Solicito revisión: Internet funciona; el programa se cierra al iniciar. El problema continúa.,Solicito revisión: Internet funciona; el programa se cierra al iniciar. El problema continúa.

@@ -1,0 +1,25 @@
+id,text_processed,label,prediction
+A2-025,Mi identidad no se valida al intentar acceder al portal.,acceso,software
+A2-026,Buen día. Mi identidad no se valida al intentar acceder al portal. ¿Pueden ayudarme?,acceso,software
+A2-027,Solicito revisión: Mi identidad no se valida al intentar acceder al portal. El problema continúa.,acceso,software
+A2-028,Ya resolví el pago; ahora necesito desbloquear mi cuenta.,acceso,acceso
+A2-029,Buen día. Ya resolví el pago; ahora necesito desbloquear mi cuenta. ¿Pueden ayudarme?,acceso,acceso
+A2-030,Solicito revisión: Ya resolví el pago; ahora necesito desbloquear mi cuenta. El problema continúa.,acceso,acceso
+A2-055,Me descontaron dinero y la orden sigue sin liquidar.,pagos,pagos
+A2-056,Buen día. Me descontaron dinero y la orden sigue sin liquidar. ¿Pueden ayudarme?,pagos,pagos
+A2-057,Solicito revisión: Me descontaron dinero y la orden sigue sin liquidar. El problema continúa.,pagos,pagos
+A2-058,Puedo entrar a mi cuenta; el problema es un cobro que no reconozco.,pagos,acceso
+A2-059,Buen día. Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. ¿Pueden ayudarme?,pagos,acceso
+A2-060,Solicito revisión: Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. El problema continúa.,pagos,acceso
+A2-085,La conexión se corta al cambiar de sala.,conectividad,conectividad
+A2-086,Buen día. La conexión se corta al cambiar de sala. ¿Pueden ayudarme?,conectividad,conectividad
+A2-087,Solicito revisión: La conexión se corta al cambiar de sala. El problema continúa.,conectividad,conectividad
+A2-088,La contraseña funciona; lo que falla es la red del edificio.,conectividad,conectividad
+A2-089,Buen día. La contraseña funciona; lo que falla es la red del edificio. ¿Pueden ayudarme?,conectividad,conectividad
+A2-090,Solicito revisión: La contraseña funciona; lo que falla es la red del edificio. El problema continúa.,conectividad,conectividad
+A2-115,Las fórmulas de la hoja de cálculo dejaron de actualizarse.,software,acceso
+A2-116,Buen día. Las fórmulas de la hoja de cálculo dejaron de actualizarse. ¿Pueden ayudarme?,software,acceso
+A2-117,Solicito revisión: Las fórmulas de la hoja de cálculo dejaron de actualizarse. El problema continúa.,software,pagos
+A2-118,Internet funciona; el programa se cierra al iniciar.,software,software
+A2-119,Buen día. Internet funciona; el programa se cierra al iniciar. ¿Pueden ayudarme?,software,software
+A2-120,Solicito revisión: Internet funciona; el programa se cierra al iniciar. El problema continúa.,software,software

@@ -1,0 +1,10 @@
+id,family,text_processed,label,prediction
+A2-025,H009,Mi identidad no se valida al intentar acceder al portal.,acceso,software
+A2-026,H009,Buen día. Mi identidad no se valida al intentar acceder al portal. ¿Pueden ayudarme?,acceso,software
+A2-027,H009,Solicito revisión: Mi identidad no se valida al intentar acceder al portal. El problema continúa.,acceso,software
+A2-058,H020,Puedo entrar a mi cuenta; el problema es un cobro que no reconozco.,pagos,acceso
+A2-059,H020,Buen día. Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. ¿Pueden ayudarme?,pagos,acceso
+A2-060,H020,Solicito revisión: Puedo entrar a mi cuenta; el problema es un cobro que no reconozco. El problema continúa.,pagos,acceso
+A2-115,H039,Las fórmulas de la hoja de cálculo dejaron de actualizarse.,software,acceso
+A2-116,H039,Buen día. Las fórmulas de la hoja de cálculo dejaron de actualizarse. ¿Pueden ayudarme?,software,acceso
+A2-117,H039,Solicito revisión: Las fórmulas de la hoja de cálculo dejaron de actualizarse. El problema continúa.,software,pagos

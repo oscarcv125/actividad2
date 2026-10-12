@@ -1,0 +1,32 @@
+{
+  "modelo": "tfidf_naive_bayes",
+  "regla_de_seleccion": "F1 macro en validation; desempate: si empatan en F1 macro, gana la de mayor accuracy en validation; si siguen empatadas, Naive Bayes (la mas simple)",
+  "regla_aplicada": "empate total; gano la mas simple",
+  "semilla": 42,
+  "ids_validacion": [
+    "A2-019",
+    "A2-020",
+    "A2-021",
+    "A2-022",
+    "A2-023",
+    "A2-024",
+    "A2-049",
+    "A2-050",
+    "A2-051",
+    "A2-052",
+    "A2-053",
+    "A2-054",
+    "A2-079",
+    "A2-080",
+    "A2-081",
+    "A2-082",
+    "A2-083",
+    "A2-084",
+    "A2-109",
+    "A2-110",
+    "A2-111",
+    "A2-112",
+    "A2-113",
+    "A2-114"
+  ]
+}
